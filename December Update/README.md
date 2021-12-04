@@ -32,10 +32,10 @@
   * The text is contactenated with the emotions predicted by the GoEmotions model.
   * LRAP - 52%
 
-### Acronyms used in Dataset
+### Acronyms in Dataset
   * GoE - GoEmotions
   * SE - SemEval
-  * D - Duplicates
+  * D - Duplicates (There were some duplicates present in GoEmotions data)
   * NoD - No Duplicates
   * MM - MultiModel
   * T1 - Task 01
