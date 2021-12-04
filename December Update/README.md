@@ -34,4 +34,8 @@
 
 ## Things Left to be Done
 
-* Upload Datasets
+* Use Softmax output
+* Use GoEmotion model as pretrained model
+* ~~Upload Data~~
+* ~~Interpretation~~
+* ~~Persuasion/SemEval Data~~
