@@ -19,8 +19,19 @@
   * The data is not augmented and duplicates were left untouched.
   * LRAP - 63%
 
+### Raw SemEval Task 1 MultiLabel Classification with Simple Transformers.ipynb
+  * RoBerta model trained on SemEval Task 1 where the labels are multiclass & multilabel.
+  * LRAP - 52%
+
+### Raw SemEval Task 1+2 MultiLabel Classification with Simple Transformers.ipynb
+  * RoBerta model trained on SemEval Task 1 & 2 combined where the labels are multiclass & multilabel.
+  * LRAP - 54%
+
+### Raw SemEval Task 1+2 with Emotions MultiLabel Classification with Simple Transformers.ipynb
+  * RoBerta model trained on SemEval Task 1+2 where the labels are multiclass & multilabel.
+  * The text is contactenated with the emotions predicted by the GoEmotions model.
+  * LRAP - 52%
+
 ## Things Left to be Done
 
 * Upload Datasets
-* Interpretation
-* Persuasion Models
