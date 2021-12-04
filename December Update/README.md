@@ -32,6 +32,8 @@
   * The text is contactenated with the emotions predicted by the GoEmotions model.
   * LRAP - 52%
 
+## LRAP - https://scikit-learn.org/stable/modules/generated/sklearn.metrics.label_ranking_average_precision_score.html
+
 ### Acronyms in Dataset
   * GoE - GoEmotions
   * SE - SemEval
