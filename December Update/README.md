@@ -14,7 +14,7 @@
   * The data is augmented to ensure there is equal representation for all the labels. 
   * LRAP - 65%
 
-### Raw GoEmotion MultiClass & MultiLabel Classification with Simple Transformers.ipynb
+### Raw GoEmotion MultiLabel Classification with Simple Transformers.ipynb
   * RoBerta model trained on GoEmotions where the labels are multiclass & multilabel.
   * The data is not augmented and duplicates were left untouched.
   * LRAP - 63%
