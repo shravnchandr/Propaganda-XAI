@@ -14,6 +14,12 @@
   * The data is augmented to ensure there is equal representation for all the labels. 
   * LRAP - 65%
 
+### Raw GoEmotion with Ekman Mapping MultiLabel Classification with Simple Transformers.ipynb
+  * RoBerta model trained on GoEmotions where the labels are multiclass & multilabel.
+  * 27+1 emotions are mapped to 6 Ekman emotions + neutral.
+  * The data is not augmented and duplicates were left untouched.
+  * LRAP - 86%
+
 ### Raw GoEmotion MultiLabel Classification with Simple Transformers.ipynb
   * RoBerta model trained on GoEmotions where the labels are multiclass & multilabel.
   * The data is not augmented and duplicates were left untouched.
