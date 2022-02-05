@@ -29,21 +29,17 @@
   * RoBerta model trained on SemEval Task 1 where the labels are multiclass & multilabel.
   * LRAP - 52%
 
-### Raw SemEval Task 1+2 MultiLabel Classification with Simple Transformers.ipynb
-  * RoBerta model trained on SemEval Task 1 & 2 combined where the labels are multiclass & multilabel.
-  * LRAP - 54%
-
-### Raw SemEval Task 1+2 with Emotions MultiLabel Classification with Simple Transformers.ipynb
+### Raw SemEval Task 1 with Emotions MultiLabel Classification with Simple Transformers.ipynb
   * RoBerta model trained on SemEval Task 1+2 where the labels are multiclass & multilabel.
   * The text is contactenated with the emotions predicted by the GoEmotions model.
-  * LRAP - 54%
+  * LRAP - 52%
 
-### Raw SemEval Task 1+2 with Emotions MultiLabel Classification with Simple Transformers using Pretrained Model.ipynb
+### Raw SemEval Task 1 with Emotions MultiLabel Classification with Simple Transformers using Pretrained Model.ipynb
   * RoBerta model trained on GoEmotions where the labels are multiclass & multilabel.
   * The data is not augmented and duplicates were left untouched.
   * The model is later used to train SemEval Task 1+2 where the labels are multiclass & multilabel.
   * The text is contactenated with the emotions predicted by the GoEmotions model.
-  * LRAP - 56%
+  * LRAP - 54%
 
 ## LRAP - https://scikit-learn.org/stable/modules/generated/sklearn.metrics.label_ranking_average_precision_score.html
 
